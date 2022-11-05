@@ -11,8 +11,8 @@ For any questions please contact the first author at hericfhy[at]connect[dot]hku
 
 **Contents:** <br>
 1. Experiment 1 folder
-  1. practice.py 
-2. Experiment 2 folder
+    1. Codes for Practice and Experimental Trials (practice.py \& experiment.py)
+3. Experiment 2 folder
 
 
 
