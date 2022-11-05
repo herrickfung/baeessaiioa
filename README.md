@@ -7,8 +7,12 @@ H. Fung, W.O. Li, & C.K.-C. Yu. Behavioral and ERP evidence supporting Selection
 <br>
 
 For any questions please contact the first author at hericfhy[at]connect[dot]hku[dot]hk
-<br>
+<br><br>
+
 **Contents:** <br>
+1. Experiment 1 folder
+  1. practice.py 
+2. Experiment 2 folder
 
 
 
