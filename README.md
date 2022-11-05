@@ -9,7 +9,7 @@ H. Fung, W.O. Li, & C.K.-C. Yu. Behavioral and ERP evidence supporting Selection
 For any questions please contact the first author at hericfhy[at]connect[dot]hku[dot]hk
 <br><br>
 
-**Contents:** <br>
+**Included Contents:** <br>
 1. Experiment 1 folder
     1. Codes for Practice and Experimental Trials (practice.py \& experiment.py)
     2. Codes for data analysis (raw_data_process.py, curve_fitting.py, \& stat.py)
